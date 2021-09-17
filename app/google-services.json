@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895935629167",
+    "project_id": "studybuddy-9dbb5",
+    "storage_bucket": "studybuddy-9dbb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895935629167:android:88a787a8f04aedaa19ca9a",
+        "android_client_info": {
+          "package_name": "com.janvirautela.studybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895935629167-g37oorfuo7ladgrkboq8s2mii6shbgge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3f-ZouU2wm_35ehdw1GrUogA9BGS-f9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895935629167-g37oorfuo7ladgrkboq8s2mii6shbgge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

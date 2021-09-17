@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_restart"
+        android:icon="@drawable/ic_baseline_restart_alt_24"
+        android:title="Restart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mi_new_size"
+        android:title="Choose a new level" />
+    <item
+        android:id="@+id/mi_custom"
+        android:title="Create your flashcards" />
+    <item
+        android:id="@+id/mi_download"
+        android:title="Download your own game" />
+</menu>
